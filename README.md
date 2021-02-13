@@ -6,6 +6,10 @@
 ### Event Definition:
 - Detecting and extracting the subject of a terrorist or militant operation from textual data
 
+#### Defined event via two handmade lists
+<br>verb_list = ["launch", "begin", "initiate", "start", "resume", "coordinate", "carry", "commit", "conduct", "claim"]
+<br>dobj_list = ["attack", "offensive", "operation", "assault", "activity"]
+
 ### Data Source:
 https://www.state.gov/reports/country-reports-on-terrorism-2019/
 - 40 articles downloaded
