@@ -23,6 +23,9 @@ dobj_list
  
 ### Example
 In Bangladesh, ISIS-affiliated terrorists claimed six IED attacks, five of which were directed against Bangladesh police.
-Actor: ISIS-affiliated terrorists Event: claimed
-Direct object: attacks
+<br><b>Actor</b>: ISIS-affiliated terrorists 
+<br><b>Event</b>: claimed
+<br><b>Direct object</b>: attacks
+
+![displacy](https://github.com/Guluna/Event-Extractor-NLP-/blob/main/Displacy.png?raw=true)
  
